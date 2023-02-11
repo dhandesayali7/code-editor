@@ -3,29 +3,18 @@ body {
   padding: 0;
 }
 h1{
-  color:aliceblue
+  color:rgb(12, 12, 12)
 }
 .top-pane {
   background-color: hsl(210, 2%, 24%);
 }
 .code{
-  background-color: black;
+  color: black;
+  
 }
 
  
- button{
-  
-  justify-content: center;
-  text-align: center;
-  color: aliceblue;
-  height:30px ;
-  width: 80px;
-  font-size: 15px;
-  background-color:hsl(210, 4%, 28%);
-  margin: 3px;
-  border: none;
-  cursor: pointer;
- }
+ 
 
 .pane {
   height: 50vh;
